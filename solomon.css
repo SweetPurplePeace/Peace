@@ -1,0 +1,26 @@
+h1, p{
+    color: blue;
+    color: red;
+}
+@media(max-width:600px) and (min-width:500px){
+    h1, p
+}
+div li{
+    color: purple;
+}
+
+.hello > h2{
+    color: purple;
+}
+.world#word{
+    color: red;
+}
+
+button{
+    padding: 20px;
+    background-color: black;
+    color: green;
+}
+button:hover{
+    color: pink;
+}

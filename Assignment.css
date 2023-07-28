@@ -1,0 +1,31 @@
+.king1{
+    margin: 10% 2%;
+    position: absolute;
+}
+.king2{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+.king3{
+    position: absolute;
+    left: 700px;
+    bottom: 250px;
+    
+}
+.king4{
+    position: absolute;
+    z-index: -1;
+    left: 900px;
+    bottom: 200px;
+
+}
+.king5{
+    position: absolute;
+    z-index: -2;
+    left: 1200px;
+    bottom: 150px;
+}
+.king1,.king2,.king3,.king4,.king5{
+
+}
